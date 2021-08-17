@@ -1,97 +1,63 @@
-Welcome to Scratch Contributors!
+This is the studio used for discussing applicants, potential manager promotions, or otherwise special actions for The Forum Helpers studio. Main Studio: https://scratch.mit.edu/studios/30136012/comments/
+_________________________
++++ Pending Applicants +++
 
-» This studio celebrates everyone who has contributed to Scratch through translations, encouraging innovation, and other contributions to Scratch. «
+@Yeetoburro1 (August 10) (0/4 objections)
+@Mrcakeyman89 (August 14) (3/4 objections)
 
-Visit our official website!
-https://scratch-contributors.github.io/
+@The_Imaginarium (2/4 Supports)
+@violetcalico (0/4 Supports)
+__________________________
++++ Pending Promotions +++
 
-Question of the Month (QOTM):
-How much time do you spend working on Scratch projects?
-- Suggested by @alan341
+None
+_________________________
++++ Studio Information +++
 
-Suggest QOTM's here:
-https://scratch.mit.edu/discuss/topic/516658/
+If you would like to join The Forum Helpers, please go to the other studio (linked above) and fill in the application form provided.
 
-Meet our Contributors! 
-https://scratch.mit.edu/discuss/topic/516290/ 
+Alternatively, if we see that you’re being helpful on the forums, we may invite you!
 
-Scratch Contributors include (current and former):
- • Scratch Team members
- • Scratch Moderators and
-  Mentors
- • Scratch Design Studio (SDS) 
-  Curators, Helpers, and 
-  Translators
- • Scratch Welcoming Committee 
-  (SWC) Members, Curators,
-  Reviewers, and Translators
- • Propose Projects to be 
-  Featured (PPTBF) Curators
-  and Translators
- • Scratch Wiki Contributors
- • Front Page Curators (FPC's)
- • Front Page Curator 
-  Applications (FPCA) and Front 
-  Page Curator Applications Help 
-  (FPCAH) Curators and 
-  Translators
- • The Forum Helpers Curators
-  and Managers
- • Scratch Camp Counselors and 
-  Translators
- • Scratch Translators
- • And anyone else who has 
-  made contributions to the 
-  Scratch interface!
+This is the second iteration of The Forum Helpers Special Actions studio, created on 8/2/2021 by @xXRedTheCoderXx. To view the first TFH SA studio, created by @customhacker, visit https://scratch.mit.edu/studios/4210258/
+_________________________
++++ Application Notes +++
 
-Feel free to use this studio to meet other Scratch contributors, ask for advice on how to help, or chat!
+With the current application and grading system, users who apply will be placed in a week-long "Application Pending" window. During this time, current Forum Helpers can discuss the applicant, and managers can object to the person joining. If a manager objects, it counts as up to two objections. If a curator objects, it counts as 1 objection. If after one week, there are less than four objections, then the user can be invited. Four objections are required for someone to be rejected.
 
-───────────────
+If you are a curator, please write [Curator] at the start of your comment when discussing an applicant. If you are a manager, write [Manager].
 
-Curating and Managing:
- ‣ Only Scratch Contributors can
-   curate, but anyone is welcome 
-   to chat!
-   ‣‣ If you would like to curate,
-   please state:
-      1) Where you contribute
-      2) QOTM answer
+The amount of objections an applicant has received will be put next to their name on the pending applicants list.
 
-      If you are accepted, you are
-      highly encouraged to leave a
-      short bio.
+Curators are free to post an application in this studio for discussion.
+_________________________
++++ Promotion Notes +++
 
-NOTICE: We are not accepting manager applications at the moment.
+1) Only a manager can request someone to be promoted.
 
-───────────────
+2) If you wish to promote someone from curator to manager, please make your own comment thread to discuss the user's promotion.
 
-Not a Contributor? There are still many places that you can help out:
+3) If you believe someone should be promoted, say "support" and explain, if you are a manager. This will add one point to their vote. 
 
-⤏ Propose Projects to Be Featured (PPTBF)
-https://scratch.mit.edu/studios/28715018
- Add projects that other Scratchers have proposed to be featured.
+4) If you do not believe a user should be promoted, you have the option of saying "no support" and explain why, on their application if you are a manager. This will not deduct any points from their vote.
 
-⤏ Scratch Design Studio (SDS)
-https://scratch.mit.edu/studios/5257203/
- Add projects that pertain to the current SDS theme and answer questions regarding the SDS.
+5) Curators cannot vote for promotions, but they can provide their opinions in a constructive manner.
 
-⤏ Scratch Welcoming Committee (SWC)
-@welcomingcommittee
- Welcome New Scratchers to Scratch! Answer questions and give feedback to projects.
+6) If a promotion request gets three manager votes, then the user is promoted by another manager!
 
-⤏ Scratch Wiki
-https://en.scratch-wiki.info/
- Help provide a detailed wiki for other Scratchers. You can make edits to existing articles or create articles that might be useful to other Scratchers!
+7) When suggesting someone to be promoted, make sure to add their name to the pending promotions list and include the comment ID.
+_________________________
++++ Special Action Notes +++
 
-⤏ Scratch Forums
-https://scratch.mit.edu/discuss/
- Help out around the forums by answering questions and helping users who might be new.
+A "special action" is a change to The Forum Helpers studio, whether small or big.
 
-These are just a few examples, but there are plenty of other ways to help out around Scratch! :)
+1) Curators and managers who believe a special action should be taken can make a new comment that shares their idea.
 
-───────────────
+2) Only managers can vote on a special action, though curators can share their thoughts constructively.
 
-Credits:
-+ Inspired by @R4356th's Scratch Contributors studio: https://scratch.mit.edu/studios/26335791/
-+ Thumbnail by @ArtsyStrawberry and @ScratchCat
-+ Thanks to everyone who helps out around Scratch!
+3) The number of votes on how many votes it will take to get this implemented should be decided by a manager. Each special actions varies in its own ways, and should require different amounts of votes.
+
+4) Managers, please decide on a reasonable amount of votes that a special action requires. Try to abide by three manager votes, but if it's a radical change like abolishing the grading system, for instance, that could require more votes.
+
+5) If managers give the necessary amount of votes, then a special action is taken! The last manager to support a suggestion should implement it.
+
+___________________________
