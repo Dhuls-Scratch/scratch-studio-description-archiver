@@ -1,4 +1,4 @@
-const STUDIO_ID = 26371714; // Replace 0 with your studio id
+const STUDIO_ID = 30136703; // Replace 0 with your studio id
 const fs = require("fs")
 const fetch = require("node-fetch")
 
