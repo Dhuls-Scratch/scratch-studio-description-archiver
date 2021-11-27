@@ -2,10 +2,7 @@ This is the studio used for discussing applicants, potential manager promotions,
 _________________________
 +++ Pending Applicants +++
 
-@god286 (0/4 objections) (Nov 19)
-@legobuilder000 (2/4 objections) (Nov 20)
-@mumu245 (3/4 objections) (Nov 22)
-@Pianostar4 (3/4 objections) (Nov 23)
+@legobuilder000 (3/4 objections) (Nov 20)
 @b1048546 (0/4 objections) (Nov 25)
 __________________________
 +++ Pending Promotions +++
