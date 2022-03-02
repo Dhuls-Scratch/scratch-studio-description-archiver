@@ -6,7 +6,7 @@ None
 __________________________
 +++ Pending Promotions +++
 
-@dhuls (0/3 manager supports)
+@dhuls (2/3 manager supports)
 _________________________
 +++ Studio Information +++
 
