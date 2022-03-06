@@ -50,12 +50,11 @@ A "special action" is a change to The Forum Helpers studio, whether small or big
 
 1) Curators and managers who believe a special action should be taken can make a new comment that shares their idea.
 
-2) Only managers can vote on a special action, though curators can share their thoughts constructively.
+2) Only managers and curators can vote on special actions, however curators can only have half a vote whereas managers have a full vote..
 
 3) The number of votes on how many votes it will take to get this implemented should be decided by a manager. Each special actions varies in its own ways, and should require different amounts of votes.
 
-4) Managers, please decide on a reasonable amount of votes that a special action requires. Try to abide by three manager votes, but if it's a radical change like abolishing the grading system, for instance, that could require more votes.
+4) Managers, please decide on a reasonable amount of votes that a special action requires. Try to abide by three votes, but if it's a radical change like abolishing the grading system, for instance, that could require more votes.
 
-5) If managers give the necessary amount of votes, then a special action is taken! The last manager to support a suggestion should implement it.
-
+5) If given the necessary amount of votes, then a special action is taken! If the special action requires the description of the studio to change (or some other aspect only studio hosts can edit) then the current studio host must implement it.
 ___________________________
