@@ -4,7 +4,7 @@ _________________________
 
 @VioletCalico (Mar 1) (0/4 objections)
 @10goto10 (Mar 2) (0/4 objections)
-@DinoMaster20 (Mar 3) (1/4 objections)
+@donotforgetmycode (Mar 6) (1/4 objections)
 __________________________
 +++ Pending Promotions +++
 
@@ -20,7 +20,7 @@ This is the second iteration of The Forum Helpers Special Actions studio, create
 _________________________
 +++ Application Notes +++
 
-With the current application and grading system, users who apply will be placed in a week-long "Application Pending" window. During this time, current Forum Helpers can discuss the applicant, and managers can object to the person joining. If a manager objects, it counts as up to two objections. If a curator objects, it counts as 1 objection. If after one week, there are less than four objections, then the user can be invited. Four objections are required for someone to be rejected.
+With the current application and grading system, users who apply will be placed in a week-long "Application Pending" window. During this time, current Forum Helpers can discuss the applicant, and members can object to the person joining. If a manager objects, it counts as up to two objections. If a curator objects, it counts as up to 1 objection. Unless explicitly stated otherwise, an objection from a manager or curator counts as one single objection by default. If after one week, there are less than four objections, then the user can be invited. Four objections are required for someone to be rejected.
 
 If you are a curator, please write [Curator] at the start of your comment when discussing an applicant. If you are a manager, write [Manager].
 
@@ -46,13 +46,13 @@ _________________________
 _________________________
 +++ Special Action Notes +++
 
-A "special action" is a change to The Forum Helpers studio, whether small or big.
+A "special action" is a change to The Forum Helpers studio, whether big or small.
 
 1) Curators and managers who believe a special action should be taken can make a new comment that shares their idea.
 
-2) Only managers and curators can vote on special actions, however curators can only have half a vote whereas managers have a full vote..
+2) Only managers and curators can vote on special actions, however curators only have half a vote whereas managers have a full vote.
 
-3) The number of votes on how many votes it will take to get this implemented should be decided by a manager. Each special actions varies in its own ways, and should require different amounts of votes.
+3) The number of votes it will take to get a special action implemented should be decided by a manager. Each special action varies in its own ways, and should require different amounts of votes.
 
 4) Managers, please decide on a reasonable amount of votes that a special action requires. Try to abide by three votes, but if it's a radical change like abolishing the grading system, for instance, that could require more votes.
 
