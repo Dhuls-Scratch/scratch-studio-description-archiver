@@ -2,15 +2,15 @@ This is the studio used for discussing applicants, potential manager promotions,
 _________________________
 +++ Pending Applicants +++
 
-@historical_supa (2/4 objections)
-_________________________
+None
+___________
 +++ Pending Promotions +++
 
 None
 _________________________
 +++ Waiting List +++
 
-None
+@historical_supa (can apply April 17)
 _________________________
 +++ Studio Information +++
 
