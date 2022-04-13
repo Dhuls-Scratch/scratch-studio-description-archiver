@@ -2,8 +2,8 @@ This is the studio used for discussing applicants, potential manager promotions,
 _________________________
 +++ Pending Applicants +++
 
-@mexicanboyrrv (Apr 12) (0/4 objections)
-___________
+None
+_________________________
 +++ Pending Promotions +++
 
 None
@@ -11,6 +11,7 @@ _________________________
 +++ Waiting List +++
 
 @historical_supa (can apply April 17)
+@mexicanboyrrv (can reapply April 20)
 _________________________
 +++ Studio Information +++
 
