@@ -2,7 +2,6 @@ This is the studio used for discussing applicants, potential manager promotions,
 _________________________
 +++ Pending Applicants +++
 
-@sharkode (April 14) (2/4 objections)
 @mbrick2 (April 14) (2/4 objections)
 _________________________
 +++ Pending Promotions +++
@@ -13,6 +12,7 @@ _________________________
 
 @historical_supa (can apply April 17)
 @mexicanboyrrv (can reapply April 20)
+@sharkode (April 22)
 _________________________
 +++ Studio Information +++
 
