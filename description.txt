@@ -35,7 +35,7 @@ Curators are free to post an application in this studio for discussion.
 _________________________
 +++ Promotion Notes +++
 
-1) Only a manager can request someone to be promoted.
+1) Only a member of TFH can request someone to be promoted.
 
 2) If you wish to promote someone from curator to manager, please make your own comment thread to discuss the user's promotion.
 
@@ -62,4 +62,6 @@ A "special action" is a change to The Forum Helpers studio, whether big or small
 4) Managers, please decide on a reasonable amount of votes that a special action requires. Try to abide by three votes, but if it's a radical change like abolishing the grading system, for instance, that could require more votes.
 
 5) If given the necessary amount of votes, then a special action is taken! If the special action requires the description of the studio to change (or some other aspect only studio hosts can edit) then the current studio host must implement it.
+
+6) Negative votes subtract from a proposition's total vote count. 
 ___________________________
