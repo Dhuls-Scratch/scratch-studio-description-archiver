@@ -39,7 +39,7 @@ _________________________
 
 3) If you believe someone should be promoted, say "support" and explain, if you are a manager. This will add one point to their vote. 
 
-4) If you do not believe a user should be promoted, you have the option of saying "no support" and explain why, on their application if you are a manager. This will not deduct any points from their vote.
+4) If you do not believe a user should be promoted, you have the option of saying "no support" and explain why, on their application if you are a manager. This will not deduct any points from their vote, however if three managers do not support than the promotion will be rejected and the user cannot be suggested to be promoted again for at least two weeks.
 
 5) Curators cannot vote for promotions, but they can provide their opinions in a constructive manner.
 
