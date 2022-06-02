@@ -11,7 +11,7 @@ https://scratch.mit.edu/studios/30136703/comments/#comments-186281454
 @TheAnimalKingdom42 (June 7) (0/4 objections)
 https://scratch.mit.edu/studios/30136703/comments/#comments-186665016
 
-@starhero5697 (June 8) (0/4 objections)
+@starhero5697 (June 8) (1/4 objections)
 _________________________
 +++ Pending Promotions +++
 
@@ -19,7 +19,7 @@ None
 _________________________
 +++ Waiting List +++
 
-@qloakonscratch (can be suggested for promotion again June 2)
+None
 _________________________
 +++ Studio Information +++
 
@@ -51,7 +51,7 @@ _________________________
 
 5) Curators cannot vote for promotions, but they can provide their opinions in a constructive manner.
 
-6) If a promotion request gets three manager votes, then the user is promoted by another manager!
+6) If a promotion request gets three manager votes, (not counting the user who suggested them) then the user is promoted by another manager!
 
 7) When suggesting someone to be promoted, make sure to add their name to the pending promotions list and include the comment ID.
 _________________________
@@ -61,7 +61,7 @@ A "special action" is a change to The Forum Helpers studio, whether big or small
 
 1) Curators and managers who believe a special action should be taken can make a new comment that shares their idea.
 
-2) Only managers and curators can vote on special actions, however curators only have half a vote whereas managers have a full vote.
+2) Only managers and curators can vote on special actions, however curators only have half a vote whereas managers have a full vote. The user who suggested the idea cannot vote on jt.
 
 3) The number of votes it will take to get a special action implemented should be decided by a manager. Each special action varies in its own ways, and should require different amounts of votes.
 
