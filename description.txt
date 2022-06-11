@@ -52,7 +52,7 @@ A "special action" is a change to The Forum Helpers studio, whether big or small
 
 1) Curators and managers who believe a special action should be taken can make a new comment that shares their idea.
 
-2) Only managers and curators can vote on special actions, however curators only have half a vote whereas managers have a full vote. The user who suggested the idea cannot vote on jt.
+2) Only managers and curators can vote on special actions, however curators only have half a vote whereas managers have a full vote. The user who suggested the idea cannot vote on it.
 
 3) The number of votes it will take to get a special action implemented should be decided by a manager. Each special action varies in its own ways, and should require different amounts of votes.
 
