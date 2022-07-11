@@ -2,15 +2,12 @@ This is the studio used for discussing applicants, potential manager promotions,
 _________________________
 +++ Pending Applicants +++
 
-@-gr (2/3 supports)
-@jackson49 (2/3 supports)
-@Quantum-Cat (0/3 supports)
-@helloworldbyeworld (1/3 supports)
-@han614698 (0/3 supports)
+None
 _________________________
 +++ Pending Promotions +++
 
-None
+@Quantum-Cat (0/3 supports)
+@han614698 (0/3 supports)
 _________________________
 +++ Waiting List +++
 
