@@ -7,7 +7,7 @@ _________________________
 +++ Pending Promotions +++
 
 @Quantum-Cat (0/3 supports)
-@han614698 (0/3 supports)
+@han614698 (1/3 supports)
 _________________________
 +++ Waiting List +++
 
@@ -62,4 +62,7 @@ A "special action" is a change to The Forum Helpers studio, whether big or small
 5) If given the necessary amount of votes, then a special action is taken! If the special action requires the description of the studio to change (or some other aspect only studio hosts can edit) then the current studio host must implement it.
 
 6) Negative votes subtract from a proposition's total vote count. 
+___________________________
++++ All Passed Special Actions +++
+ https://scratch.mit.edu/discuss/topic/617350/ - maintained by @han614698
 ___________________________
