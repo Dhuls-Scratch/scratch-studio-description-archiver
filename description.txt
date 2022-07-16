@@ -32,7 +32,7 @@ Curators are free to post an application in this studio for discussion.
 _________________________
 +++ Promotion Notes +++
 
-1) Only a curator or manager of TFH can request someone to be promoted.
+1) Only a curator or manager of TFH can request someone to be promoted, and it cannot be themselves.
 
 2) If you wish to promote someone from curator to manager, please make your own comment thread to discuss the user's promotion.
 
