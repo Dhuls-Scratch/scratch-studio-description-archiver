@@ -2,9 +2,6 @@ This is the studio used for discussing applicants, potential manager promotions,
 _________________________
 +++ Pending Applicants +++
 
-@Eagle138 (1/4 objections) (July 30)
-https://scratch.mit.edu/studios/30136703/comments/#comments-190995047
-
 @TylerMorgan123 (1.5/4 objections) (Aug 2)
 https://scratch.mit.edu/studios/30136703/comments/#comments-191290875
 
@@ -12,8 +9,6 @@ https://scratch.mit.edu/studios/30136703/comments/#comments-191290875
 https://scratch.mit.edu/studios/30136703/comments/#comments-191443021
 
 @ScolderCreations (0/4 objections) (Aug 4)
-
-@Lavender_lillypad (1/4 objections) (Aug 5)
 _________________________
 +++ Pending Promotions +++
 
@@ -24,6 +19,7 @@ _________________________
 @popjam12 (can reapply Aug 2)
 @Quantum-Cat (can be suggested for promotion again Aug 7)
 @RT_Borg (can be suggested for promotion again Aug 6)
+@Lavender_lillypad (Aug 6)
 _________________________
 +++ Studio Information +++
 
