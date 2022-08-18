@@ -2,17 +2,16 @@ This is the studio used for discussing applicants, potential manager promotions,
 _________________________
 +++ Pending Applicants +++
 
- @ideapad12 (2/4 objections) (August 18th)
-https://scratch.mit.edu/studios/30136703/comments/#comments-192825538
+@-Zorra- (0/4 objections) (Aug 23)
 _________________________
 +++ Pending Promotions +++
 
-@ThatOneWeirdDude (2/3 supports) (2/3 no supports)
-https://scratch.mit.edu/studios/30136703/comments/#comments-191855256
+None
 _________________________
 +++ Waiting List +++
 
-None
+@ideapad-320 (can reapply Aug 23)
+@ThatOneWeirdDude (can be suggested for promotion Aug 29)
 _________________________
 +++ Studio Information +++
 
@@ -65,5 +64,6 @@ A "special action" is a change to The Forum Helpers studio, whether big or small
 6) Negative votes subtract from a proposition's total vote count. 
 ___________________________
 +++ All Passed Special Actions +++
- https://scratch.mit.edu/discuss/topic/617350/ - maintained by @han614698
+
+https://en.scratch-wiki.info/wiki/User:Han614698/The_Forum_Helpers - maintained by @han614698
 ___________________________
