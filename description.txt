@@ -62,7 +62,7 @@ A "special action" is a change to The Forum Helpers studio, whether big or small
 
 4) Managers, please decide on a reasonable amount of votes that a special action requires. Try to abide by three votes, but if it's a radical change like abolishing the grading system, for instance, that could require more votes.
 
-5) If given the necessary amount of votes, then a special action is taken! If the special action requires the description of the studio to change (or some other aspect only studio hosts can edit) then the current studio host must implement it.
+5) If given the necessary amount of votes and 24 hours have passed, then a special action is taken! If the special action requires the description of the studio to change (or some other aspect only studio hosts can edit) then the current studio host must implement it.
 
 6) Negative votes subtract from a proposition's total vote count. 
 ___________________________
