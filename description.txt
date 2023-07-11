@@ -17,7 +17,9 @@ None
 _________________________
 +++ Pending Proposals +++
 
-None
+Change the Objection System
+(2/3 votes) (July 19)
+https://scratch.mit.edu/studios/30136703/comments/#comments-228106147
 _________________________
 +++ Waiting List +++
 
@@ -72,6 +74,8 @@ A "special action" is a change to The Forum Helpers studio, big or small.
 5) If given the necessary amount of votes and 24 hours have passed, then a special action is taken! If the special action requires the description of the studio to change (or some other aspect only studio hosts can edit) then the current studio host must implement it.
 
 6) Negative votes subtract from a proposition's total vote count. 
+
+7) Proposals are automatically rejected if two weeks pass without them receiving the necessary votes to be implemented.
 ___________________________
 +++ All Passed Special Actions +++
 
