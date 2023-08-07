@@ -7,6 +7,10 @@ _________________________
 @ocuious
 (3/4 objections) (August 13)
 https://scratch.mit.edu/studios/30136703/comments/#comments-230804010
+
+@Zydrolic
+(0/4 objections) (August 14)
+https://scratch.mit.edu/studios/30136703/comments/#comments-230915706
 _________________________
 +++ Pending Promotions +++
 
@@ -23,7 +27,7 @@ Wiki Page for Translations
 https://scratch.mit.edu/studios/30136703/comments/#comments-230896733
 
 Link Modification
-(1/3 votes) (August 21)
+(2/3 votes) (August 21)
 https://scratch.mit.edu/studios/30136703/comments/#comments-230899358
 _________________________
 +++ Waiting List +++
@@ -32,15 +36,15 @@ None
 _________________________
 +++ Studio Information +++
 
-If you would like to join The Forum Helpers, please go to the other studio (linked above) and fill in the application form provided.
+If you would like to join The Forum Helpers, please go to the main studio (linked above) and fill in the application form provided.
 
-Alternatively, if we see that you’re being helpful on the forums, we may invite you!
+Alternatively, if we see that you’re helpful on the forums, we may invite you!
 
-This is the second iteration of The Forum Helpers Special Actions studio, created on 8/2/2021 by @xXRedTheCoderXx. To view the first Special Actions studio, created by @customhacker, visit https://scratch.mit.edu/studios/4210258/
+This is the second iteration of The Forum Helpers Special Actions studio, created on 8/2/2021 by @xXRedTheCoderXx. To view the first Special Actions studio, visit https://scratch.mit.edu/studios/4210258/
 _________________________
 +++ Application Notes +++
 
-With the current application and grading system, users who apply will be placed in a week-long "pending" window. During this time, current Forum Helpers can discuss the applicant, and members can object to the person joining. If a manager objects, it counts as up to two objections. If a curator objects, it counts as up to one objection. Unless explicitly stated otherwise, an objection from a manager or curator counts as one single objection by default. If after one week, there are less than four objections, then the user can be invited. Four objections are required for someone to be rejected. This system also applies for invitations.
+With the current application and grading system, users who apply will be placed in a week-long "pending" window. During this time, current Forum Helpers can discuss the applicant, and members can object to the person joining. If specified, managers can give two objections. Unless explicitly stated otherwise, an objection from a manager or curator counts as one single objection by default. If after one week, there are less than four objections, then the user can be invited. Four objections are required for someone to be rejected. This system also applies for invitations.
 
 If you are a curator, please write [Curator] at the start of your comment when discussing an applicant. If you are a manager, write [Manager].
 
@@ -80,7 +84,7 @@ A "special action" is a change to The Forum Helpers studio, big or small.
 
 6) Negative votes subtract from a proposition's total vote count. 
 
-7) Proposals are automatically rejected if two weeks pass without them receiving the necessary votes to be implemented.
+7) Proposals are automatically rejected if two weeks pass without receiving the necessary votes to be implemented.
 ___________________________
 +++ All Passed Special Actions +++
 
