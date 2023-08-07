@@ -21,6 +21,10 @@ https://scratch.mit.edu/studios/30136703/comments/#comments-230830848
 Wiki Page for Translations
 (0/3 votes) (August 21)
 https://scratch.mit.edu/studios/30136703/comments/#comments-230896733
+
+Link Modification
+(1/3 votes) (August 21)
+https://scratch.mit.edu/studios/30136703/comments/#comments-230899358
 _________________________
 +++ Waiting List +++
 
@@ -36,7 +40,7 @@ This is the second iteration of The Forum Helpers Special Actions studio, create
 _________________________
 +++ Application Notes +++
 
-With the current application and grading system, users who apply will be placed in a week-long "Application Pending" window. During this time, current Forum Helpers can discuss the applicant, and members can object to the person joining. If a manager objects, it counts as up to two objections. If a curator objects, it counts as up to one objection. Unless explicitly stated otherwise, an objection from a manager or curator counts as one single objection by default. If after one week, there are less than four objections, then the user can be invited. Four objections are required for someone to be rejected. This system also applies for invitations.
+With the current application and grading system, users who apply will be placed in a week-long "pending" window. During this time, current Forum Helpers can discuss the applicant, and members can object to the person joining. If a manager objects, it counts as up to two objections. If a curator objects, it counts as up to one objection. Unless explicitly stated otherwise, an objection from a manager or curator counts as one single objection by default. If after one week, there are less than four objections, then the user can be invited. Four objections are required for someone to be rejected. This system also applies for invitations.
 
 If you are a curator, please write [Curator] at the start of your comment when discussing an applicant. If you are a manager, write [Manager].
 
@@ -81,4 +85,3 @@ ___________________________
 +++ All Passed Special Actions +++
 
 https://en.scratch-wiki.info/wiki/User:Sharkode/The_Forum_Helpers - maintained by @sharkode
-___________________________
