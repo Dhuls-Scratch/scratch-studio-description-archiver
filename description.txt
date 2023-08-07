@@ -15,11 +15,11 @@ _________________________
 +++ Pending Proposals +++
 
 Translation Studio
-(-2/3 votes)
+(-2/3 votes) (August 20)
 https://scratch.mit.edu/studios/30136703/comments/#comments-230830848
 
 Wiki Page for Translations
-(0/3 votes)
+(0/3 votes) (August 21)
 https://scratch.mit.edu/studios/30136703/comments/#comments-230896733
 _________________________
 +++ Waiting List +++
@@ -40,7 +40,7 @@ With the current application and grading system, users who apply will be placed 
 
 If you are a curator, please write [Curator] at the start of your comment when discussing an applicant. If you are a manager, write [Manager].
 
-The amount of objections an applicant has received will be put next to their name on the pending applicants list.
+The number of objections an applicant has received will be put next to their name on the pending applicants list.
 
 Curators are free to post an application in this studio for discussion.
 _________________________
@@ -52,7 +52,7 @@ _________________________
 
 3) If you believe someone should be promoted, say "support" and explain. This will add one or half a point to their vote. 
 
-4) If you do not believe a user should be promoted, you have the option of saying "no support" on their application if you are a manager, as long as you provide an explanation. This will deduct 1 point from their vote. If the vote count reaches -3 or two weeks have passed without the promotion being accepted, then it will be rejected, and the user cannot be resuggested for at least two weeks.
+4) If you do not believe a user should be promoted, you have the option of saying "no support" on their application if you are a manager, as long as you provide an explanation. This will deduct 1 point from their vote. If the vote count reaches -3 or two weeks have passed without the promotion being accepted, then it will be rejected, and the user cannot be re-suggested for at least two weeks.
 
 5) Curators' votes are worth half a vote.
 
@@ -72,7 +72,7 @@ A "special action" is a change to The Forum Helpers studio, big or small.
 
 4) Managers, please decide on a reasonable amount of votes that a special action requires. Try to abide by three votes, but if it's a radical change like abolishing the grading system, for instance, that could require more votes.
 
-5) If given the necessary amount of votes and 24 hours have passed, then a special action is taken! If the special action requires the description of the studio to change (or some other aspect only studio hosts can edit) then the current studio host must implement it.
+5) If given the necessary amount of votes and 24 hours have passed, then the special action is taken! If the special action requires the description of the studio to change (or some other aspect only studio hosts can edit) then the current studio host must implement it.
 
 6) Negative votes subtract from a proposition's total vote count. 
 
