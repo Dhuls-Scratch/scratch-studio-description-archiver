@@ -1,4 +1,4 @@
-This is the studio used for discussing applicants, potential manager promotions, or otherwise special actions for The Forum Helpers studio.
+This is the studio used for discussing applicants, promotions, and other special actions for The Forum Helpers studio.
 
 Main Studio: https://scratch.mit.edu/studios/30136012/comments
 _________________________
@@ -25,6 +25,10 @@ https://scratch.mit.edu/studios/30136703/comments/#comments-230896733
 Minor Link Change
 (3.5/3 votes) (24-hour waiting period)
 https://scratch.mit.edu/studios/30136703/comments/#comments-230899358
+
+Wiki Page Reorganization
+(0/3 votes) (August 21)
+https://scratch.mit.edu/studios/30136703/comments/#comments-230948500
 _________________________
 +++ Waiting List +++
 
@@ -40,7 +44,7 @@ This is the second iteration of The Forum Helpers Special Actions studio, create
 _________________________
 +++ Application Notes +++
 
-With the current application and grading system, users who apply will be placed in a week-long "pending" window. During this time, current Forum Helpers can discuss the applicant, and members can object to the person joining. If specified, managers can give two objections. Unless explicitly stated otherwise, an objection from a manager or curator counts as one single objection by default. If after one week, there are less than four objections, then the user can be invited. Four objections are required for someone to be rejected. This system also applies for invitations.
+With the current application and grading system, users who apply will be placed in a week-long "pending" window. During this time, current Forum Helpers can discuss the applicant, and members can object to the person joining. If specified, managers can give two objections. Unless explicitly stated otherwise, an objection from a manager or curator counts as one single objection by default. If after one week, there are less than four objections, the user is invited. Four objections are required to reject someone. This system also applies for invitations.
 
 If you are a curator, please write [Curator] at the start of your comment when discussing an applicant. If you are a manager, write [Manager].
 
@@ -70,7 +74,7 @@ A "special action" is a change to The Forum Helpers studio, big or small.
 
 1) Curators and managers who believe a special action should be taken can make a new comment that shares their idea.
 
-2) Only managers and curators can vote on special actions, however curators only have half a vote whereas managers have a full vote. The user who suggested the idea cannot vote on it.
+2) Only managers and curators can vote on special actions, however, curators only have half a vote whereas managers have a full vote. The user who suggested the idea cannot vote on it.
 
 3) The number of votes it will take to get a special action implemented should be decided by a manager. Each special action varies in its own ways, and should require different amounts of votes.
 
