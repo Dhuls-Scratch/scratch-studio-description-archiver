@@ -18,14 +18,6 @@ Translation Studio
 (-2/3 votes) (August 20)
 https://scratch.mit.edu/studios/30136703/comments/#comments-230830848
 
-Wiki Page for Translations
-(4.5/3 votes) (24-hour wait period)
-https://scratch.mit.edu/studios/30136703/comments/#comments-230896733
-
-Minor Link Change
-(3.5/3 votes) (24-hour wait period)
-https://scratch.mit.edu/studios/30136703/comments/#comments-230899358
-
 Wiki Page Reorganization
 (0/3 votes) (August 21)
 https://scratch.mit.edu/studios/30136703/comments/#comments-230948500
@@ -47,8 +39,6 @@ _________________________
 With the current application and grading system, users who apply will be placed in a week-long "pending" window. During this time, current Forum Helpers can discuss the applicant, and members can object to the person joining. If specified, managers can give two objections. Unless explicitly stated otherwise, an objection from a manager or curator counts as one single objection by default. If after one week, there are less than four objections, the user is invited. Four objections are required to reject someone. This system also applies for invitations.
 
 If you are a curator, please write [Curator] at the start of your comment when discussing an applicant. If you are a manager, write [Manager].
-
-The number of objections an applicant has received will be put next to their name on the pending applicants list.
 
 Curators are free to post an application in this studio for discussion.
 _________________________
