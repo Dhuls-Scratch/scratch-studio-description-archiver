@@ -20,8 +20,7 @@ None
 _________________________
 +++ Waiting List +++
 
-@spidermanLOLL
-(August 28)
+None
 _________________________
 +++ Studio Information +++
 
@@ -33,7 +32,9 @@ This is the second iteration of The Forum Helpers Special Actions studio, create
 _________________________
 +++ Application Notes +++
 
-With the current application and grading system, users who apply will be placed in a week-long "pending" window. During this time, current Forum Helpers can discuss the applicant, and members can object to the person joining. If specified, managers can give two objections. Unless explicitly stated otherwise, an objection from a manager or curator counts as one single objection by default. If after one week, there are less than four objections, the user is invited. Four objections are required to reject someone. This system also applies for invitations.
+With the current application and grading system, users who apply will be placed in a week-long "pending" window. During this time, current Forum Helpers can discuss the applicant, and members can object to the person joining. If specified, managers can give two objections. Unless explicitly stated otherwise, an objection from a manager or curator counts as one single objection by default. If after one week, there are less than four objections and at least four members have given feedback, the user is invited. Four objections are required to reject someone. This system also applies for invitations.
+
+If an application does not receive feedback from at least four members of the studio by the time the week-long period ends, the pending window will be extended until that number is reached.
 
 If you are a curator, please write [Curator] at the start of your comment when discussing an applicant. If you are a manager, write [Manager].
 
