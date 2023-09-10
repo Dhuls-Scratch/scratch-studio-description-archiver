@@ -1,6 +1,8 @@
+English | Deutsch
+
 Congratulations to @KangaCoder on winning the studio host election!
 
-This is the studio used for discussing applicants, promotions, and other special actions for The Forum Helpers studio.
+This studio is used for discussing applicants, promotions, and other special actions for The Forum Helpers studio.
 
 Main Studio: https://scratch.mit.edu/studios/30136012/comments
 _________________________
@@ -77,4 +79,7 @@ A "special action" is a change to The Forum Helpers studio, big or small.
 ___________________________
 +++ All Passed Special Actions +++
 
-https://en.scratch-wiki.info/wiki/User:Sharkode/The_Forum_Helpers - maintained by @sharkode
+English:
+https://en.scratch-wiki.info/wiki/User:Sharkode/The_Forum_Helpers
+
+Deutsch: https://en.scratch-wiki.info/wiki/User:Sharkode/The_Forum_Helpers/Deutsch
