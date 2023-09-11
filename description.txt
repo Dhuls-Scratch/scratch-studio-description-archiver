@@ -1,4 +1,4 @@
-NOTE: For the next few days, I won't be able to copy the direct link to proposals/applications. Sorry about the inconvenience. 
+NOTE: For the next few days, I won't be able to copy the direct link to proposals/applications. Sorry for any inconvenience. 
 
 English | Deutsch
 
@@ -7,23 +7,23 @@ Congratulations to @KangaCoder on winning the studio host election!
 This studio is used for discussing applicants, promotions, and other special actions for The Forum Helpers studio.
 
 Main Studio: https://scratch.mit.edu/studios/30136012/comments
-_________________________
+_____________________________
 +++ Pending Applicants +++
 
 None
-_________________________
+_____________________________
 +++ Pending Promotions +++
 
-@Pixilized (Sep. 11) [0/3]
-_________________________
+- @Pixilized (Sep. 11) [0/3]
+_____________________________
 +++ Pending Proposals +++
 
 - Suggest yourself to be manager if you have been an active member for 3+ months (Sep. 11) [-2/3]
-_________________________
+_____________________________
 +++ Waiting List +++
 
 None
-_________________________
+_____________________________
 +++ Studio Information +++
 
 If you would like to join The Forum Helpers, please go to the main studio (linked above) and fill in the application form provided.
@@ -36,31 +36,31 @@ Previous Special Action hosts:
 @customhacker: Jan 2015 - Aug 2021
 @xXRedTheCoderXx: Aug 2021 - Dec 2022 
 @jacksonn49: Dec 2022 - Sep 2023
-_________________________
+_____________________________
 +++ Application Notes +++
 
-With the current application and grading system, users who apply will be placed in a week-long "pending" window. During this time, current Forum Helpers can discuss the applicant, and members can object to the person joining. If specified, managers can give two objections. Unless explicitly stated otherwise, an objection from a manager or curator counts as one single objection by default. If after one week, there are less than four objections and at least four members have given feedback, the user is invited. Four objections are required to reject someone. This system also applies for invitations.
+Users who apply will be placed in a week-long "pending" window. During this time, current Forum Helpers can discuss the applicant and object to the person joining. If specified, managers can give two objections. Unless explicitly stated otherwise, an objection from a manager or curator counts as one single objection by default. If after one week, there are less than four objections and at least four members have given feedback, the user is invited. Four objections are required to reject someone. This system also applies for invitations.
 
 If an application does not receive feedback from at least four members of the studio by the time the week-long period ends, the pending window will be extended until that number is reached.
 
 If you are a curator, please write [Curator] at the start of your comment when discussing an applicant. If you are a manager, write [Manager].
 
 Curators are free to post an application in this studio for discussion.
-_________________________
+_____________________________
 +++ Promotion Notes +++
 
 1) Only a curator or manager of TFH can request someone to be promoted, and it cannot be themselves.
 
 2) If you wish to promote someone from curator to manager, please make your own comment thread to discuss the user's promotion.
 
-3) If you believe someone should be promoted, say "support" and explain. This will add one or half a point to their vote. 
+3) If you believe someone should be promoted, say "support" and explain. This will add one (M) or 0.5 (C) to their vote. 
 
 4) If you do not believe a user should be promoted, you have the option of saying "no support" on their application if you are a manager, as long as you provide an explanation. This will deduct 1 point from their vote. If the vote count reaches -3 or two weeks have passed without the promotion being accepted, then it will be rejected, and the user cannot be re-suggested for at least two weeks.
 
 5) Curators' votes are worth half a vote.
 
 6) If a promotion request gets three votes, (not counting the user who suggested them) then the user is promoted by a manager!
-_________________________
+_____________________________
 +++ Special Action Notes +++
 
 A "special action" is a change to The Forum Helpers studio, big or small.
@@ -78,7 +78,7 @@ A "special action" is a change to The Forum Helpers studio, big or small.
 6) Negative votes subtract from a proposition's total vote count. 
 
 7) Proposals are automatically rejected if two weeks pass without receiving the necessary votes to be implemented.
-___________________________
+_____________________________
 +++ All Passed Special Actions +++
 
 English:
