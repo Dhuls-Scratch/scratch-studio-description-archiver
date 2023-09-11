@@ -19,6 +19,7 @@ _____________________________
 +++ Pending Proposals +++
 
 - Suggest yourself to be manager if you have been an active member for 3+ months (Sep. 11) [-2/3]
+- Rewrite the "Application Notes" section into a numbered list (Sep. 11) [0/3]
 _____________________________
 +++ Waiting List +++
 
@@ -35,7 +36,7 @@ This is the second iteration of The Forum Helpers Special Actions studio, create
 Previous Special Action hosts:
 @customhacker: Jan 2015 - Aug 2021
 @xXRedTheCoderXx: Aug 2021 - Dec 2022 
-@jacksonn49: Dec 2022 - Sep 2023
+@jackson49: Dec 2022 - Sep 2023
 _____________________________
 +++ Application Notes +++
 
@@ -53,11 +54,11 @@ _____________________________
 
 2) If you wish to promote someone from curator to manager, please make your own comment thread to discuss the user's promotion.
 
-3) If you believe someone should be promoted, say "support" and explain. This will add one (M) or 0.5 (C) to their vote. 
+3) If you believe someone should be promoted, say "support" and explain. 
 
 4) If you do not believe a user should be promoted, you have the option of saying "no support" on their application if you are a manager, as long as you provide an explanation. This will deduct 1 point from their vote. If the vote count reaches -3 or two weeks have passed without the promotion being accepted, then it will be rejected, and the user cannot be re-suggested for at least two weeks.
 
-5) Curators' votes are worth half a vote.
+5) Curators' votes are +0.5; Managers +/-1.
 
 6) If a promotion request gets three votes, (not counting the user who suggested them) then the user is promoted by a manager!
 _____________________________
@@ -67,7 +68,7 @@ A "special action" is a change to The Forum Helpers studio, big or small.
 
 1) Curators and managers who believe a special action should be taken can make a new comment that shares their idea.
 
-2) Only managers and curators can vote on special actions, however, curators only have half a vote whereas managers have a full vote. The user who suggested the idea cannot vote on it.
+2) Only managers and curators can vote on special actions. The user who suggested the idea cannot vote on it. Curators have 0.5 votes; Managers 1.
 
 3) The number of votes it will take to get a special action implemented should be decided by a manager. Each special action varies in its own ways, and should require different amounts of votes.
 
