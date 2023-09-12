@@ -14,12 +14,12 @@ None
 _____________________________
 +++ Pending Promotions +++
 
-- @Pixilized (Sep. 11) [0/3]
+- @Pixilized (Sep. 11) [-1/3]
 _____________________________
 +++ Pending Proposals +++
 
-- Suggest yourself to be manager if you have been an active member for 3+ months (Sep. 11) [-2/3]
-- Rewrite the "Application Notes" section into a numbered list (Sep. 11) [0.5/3]
+- Suggest yourself to be manager if you have been an active member for 3+ months (Sep. 11) [-4/3]
+- Rewrite the "Application Notes" section into a numbered list (Sep. 11) [1.5/3]
 _____________________________
 +++ Waiting List +++
 
