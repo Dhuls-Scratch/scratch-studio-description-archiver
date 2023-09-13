@@ -11,12 +11,11 @@ Main Studio: https://scratch.mit.edu/studios/30136012/comments
 None
 ————————————————+++ Pending Promotions +++
 
-- @BwnnyRxbbi
+- @BwnnyRxbbit (Sep. 13) [0/3]
 ————————————————+++ Pending Proposals +++
 
-- Suggest yourself to be manager if you have been an active member for 3+ months (Sep. 11) [-4/3]
 - Rewrite the "Application Notes" section into a numbered list (Sep. 11) [3/3; WP]
-- Revised proposal objection system (Sep. 12) [1/3]
+- Auto reject a proposal if it reaches -3/3 before the 2 week window is up (Sep. 12) [1/3]
 ————————————————+++ Waiting List +++
 
 None
@@ -34,33 +33,27 @@ Previous Special Action hosts:
 @jackson49: Dec 2022 - Sep 2023
 ————————————————
 +++ Application Notes +++
-[Work in Progress]
+[For Curators and Managers]
 
-1) Any studio member is allowed to post a users' application in the Special Actions studio.
+1) Any studio member is allowed to post a users' application in the Special Actions studio. Before posting, verify the applicant and application meets the requirements. If you are unsure, ask a Manager.
 
 2) Users who apply will be placed in a 1 week-long "pending" window where their application can be discussed by current members.
 
-3) A curator and manager objection counts as -1. Unless a manager explicitly specifies, they can object -2.
+3) A Curator and Manager objection counts as -1. If and only if a Manager explicitly specifies, they can object -2. Please indicate whether you are a Curator or Manager by writing [Curator] or [Manager] at the start of your comment when discussing an applicant.
 
-4) If after one week, the number of objections is less than 4, and at least four members have given feedback, the user is invited.
+4) If after one week, the number of objections is less than 4, and at least four members have given feedback, the user is invited. If the number of applications is greater than 4, the application is rejected. 
 
-5) (This system also applies for invitations.)
-
-If an application does not receive feedback from at least four members of the studio by the time the week-long period ends, the pending window will be extended until that number is reached.
-
-If you are a curator, please write [Curator] at the start of your comment when discussing an applicant. If you are a manager, write [Manager].
-
-Curators are free to post an application in this studio for discussion.
+5) If an application does not receive feedback from at least four members of the studio by the time the week-long period ends, the pending window will be extended until that number is reached.
 ————————————————
 +++ Promotion Notes +++
 
-1) Only a curator or manager of TFH can request someone to be promoted, and it cannot be themselves.
+1) Only a members of TFH can request someone to be promoted, and it cannot be themselves.
 
-2) If you wish to promote someone from curator to manager, please make your own comment thread to discuss the user's promotion.
+2) If you wish to promote someone from Curator to Manager, please make your own comment thread to discuss the user's promotion.
 
 3) If you believe someone should be promoted, say "support" and explain. 
 
-4) If you do not believe a user should be promoted, you have the option of saying "no support" on their application if you are a manager, as long as you provide an explanation. This will deduct 1 point from their vote. If the vote count reaches -3 or two weeks have passed without the promotion being accepted, then it will be rejected, and the user cannot be re-suggested for at least two weeks.
+4) If you do not believe a user should be promoted, you have the option of saying "no support" on their application if you are a Manager, as long as you provide an explanation. This will deduct 1 point from their vote. If the vote count reaches -3 or two weeks have passed without the promotion being accepted, then it will be rejected, and the user cannot be re-suggested for at least two weeks.
 
 5) Curators' votes are +0.5; Managers +/-1.
 
@@ -70,7 +63,7 @@ Curators are free to post an application in this studio for discussion.
 
 A "special action" is a change to The Forum Helpers studio, big or small.
 
-1) Curators and managers who believe a special action should be taken can make a new comment that shares their idea.
+1) Curators and Managers who believe a special action should be taken can make a new comment that shares their idea.
 
 2) Only managers and curators can vote on special actions. The user who suggested the idea cannot vote on it. Curators have 0.5 votes; Managers 1.
 
