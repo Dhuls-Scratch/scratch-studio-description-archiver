@@ -11,7 +11,7 @@ Main Studio: https://scratch.mit.edu/studios/30136012/comments
 None
 ————————————————+++ Pending Promotions +++
 
-- @BwnnyRxbbit (Sep. 13) [0/3]
+- @BwnnyRxbbit (Sep. 13) [-2/3]
 ————————————————+++ Pending Proposals +++
 
 - Auto reject a proposal if it reaches -3/3 before the 2 week window is up (Sep. 12) [1/3]
