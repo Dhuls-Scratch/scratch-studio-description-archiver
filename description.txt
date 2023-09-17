@@ -10,16 +10,16 @@ None
 ————————————————
 +++ Pending Promotions +++
 
-- @BwnnyRxbbit (Sep. 13) [-3/3] (ID: 234426982)
+#234426982: @BwnnyRxbbit (Sep. 13) [-3/3]
 ————————————————
 +++ Pending Proposals +++
 
-- Auto reject a proposal if it reaches -3/3 before the 2 week window is up (Sep. 12) [1.5/3] (ID: 234405317)
-- Only allow Managers to propose promotions (Sep. 16) [2/3] (ID: 234797277)
+#234405317: Auto reject a proposal if it reaches -3/3 before the 2 week window is up (Sep. 12) [1.5/3]
+#234797277: Only allow Managers to propose promotions (Sep. 16) [2/3]
 ————————————————
 +++ Waiting List +++
 
-@MaybeARandomFox (Sep. 15)————————————————
+None————————————————
 +++ Studio Information +++
 
 If you would like to join The Forum Helpers, please go to the main studio (linked above) and fill in the application form provided.
