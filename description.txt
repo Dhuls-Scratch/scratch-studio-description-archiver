@@ -14,8 +14,8 @@ None
 ————————————————
 +++ Pending Proposals +++
 
-#234405317: Auto reject a proposal if it reaches -3/3 before the 2 week window is up (Sep. 12) [1.5/3]
-#234797277: Only allow Managers to propose promotions (Sep. 16) [2/3]
+#234405317: Auto reject a proposal if it reaches -3/3 before the 2 week window is up (Sep. 12) [2/3]
+#234797277: Only allow Managers to propose promotions (Sep. 16) [1/3]
 ————————————————
 +++ Waiting List +++
 
