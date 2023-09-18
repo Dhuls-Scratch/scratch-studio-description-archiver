@@ -10,12 +10,12 @@ None
 ————————————————
 +++ Pending Promotions +++
 
-#234426982: @BwnnyRxbbit (Sep. 13) [-3/3]
+#234426982: @BwnnyRxbbit (Sep. 13) [-3.5/3]
 ————————————————
 +++ Pending Proposals +++
 
 #234405317: Auto reject a proposal if it reaches -3/3 before the 2 week window is up (Sep. 12) [2/3]
-#234797277: Only allow Managers to propose promotions (Sep. 16) [0.5/3]
+#234797277: Only allow Managers to suggest promotions (Sep. 16) [-0.5/3]
 ————————————————
 +++ Waiting List +++
 
