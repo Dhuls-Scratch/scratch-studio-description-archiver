@@ -8,7 +8,6 @@ Main Studio: https://scratch.mit.edu/studios/30136012/comments
 
 @pqsgraham (Sep. 18) [0/4] (3)
 @_TotallyNotAnApple_ (Sep. 18) [1/4] (4)
-@esmars26 (Sep. 20) [0/4] (0)
 ————————————————
 +++ Pending Promotions +++
 
@@ -16,13 +15,13 @@ Main Studio: https://scratch.mit.edu/studios/30136012/comments
 ————————————————
 +++ Pending Proposals +++
 
-#234405317: Auto reject a proposal if it reaches -3/3 before the 2 week window is up (Sep. 12) [3/3; WP]
 #234797277: Only allow Managers to suggest promotions (Sep. 16) [0.5/3]
-Allow Curators to be promoted if they are active in other areas of the community (Sep. 19) [-5.5/3]
+Replace the "How to Apply" section with a Wiki link (Sep. 21) [-0.5/3]
 ————————————————
 +++ Waiting List +++
 
-None————————————————
+@esmars26 (Sep. 27)
+————————————————
 +++ Studio Information +++
 
 If you would like to join The Forum Helpers, please go to the main studio (linked above) and fill in the application form provided.
@@ -79,7 +78,7 @@ A "special action" is a change to The Forum Helpers studio, big or small.
 
 6) Negative votes subtract from a proposition's total vote count. 
 
-7) Proposals are automatically rejected if two weeks pass without receiving the necessary votes to be implemented.
+7) Proposals are automatically rejected if two weeks pass without receiving the necessary votes to be implemented. If a proposal reaches -3/3, it will automatically be rejected even if two weeks haven't passed.
 ————————————————
 +++ All Passed Special Actions +++
 
