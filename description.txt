@@ -18,7 +18,7 @@ Main Studio: https://scratch.mit.edu/studios/30136012/comments
 
 #234405317: Auto reject a proposal if it reaches -3/3 before the 2 week window is up (Sep. 12) [3/3; WP]
 #234797277: Only allow Managers to suggest promotions (Sep. 16) [0.5/3]
-Allow Curators to be promoted if they are active in other areas of the community (Sep. 19) [-4.5/3]
+Allow Curators to be promoted if they are active in other areas of the community (Sep. 19) [-5.5/3]
 ————————————————
 +++ Waiting List +++
 
