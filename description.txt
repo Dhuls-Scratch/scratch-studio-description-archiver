@@ -6,8 +6,8 @@ Main Studio: https://scratch.mit.edu/studios/30136012/comments
 ————————————————
 +++ Pending Applicants +++
 
-@pqsgraham (Sep. 18) [0/4] (3)
-@_TotallyNotAnApple_ (Sep. 18) [1/4] (4)
+#235019605:@pqsgraham (Sep. 18) [0/4] (3)
+#235019272: @_TotallyNotAnApple_ (Sep. 18) [1/4] (4)
 ————————————————
 +++ Pending Promotions +++
 
@@ -15,11 +15,11 @@ Main Studio: https://scratch.mit.edu/studios/30136012/comments
 ————————————————
 +++ Pending Proposals +++
 
-Only allow Managers to suggest promotions (Sep. 16) [0.5/3]
+#234797277: Only allow Managers to suggest promotions (Sep. 16) [0.5/3]
 
-Replace the "How to Apply" section with a Wiki link (Sep. 21) [-1.5/3]
+#235253199: Replace the "How to Apply" section with a Wiki link (Sep. 21) [-1.5/3]
 
-Revise some of the punctuation in the main studio description (Sep. 23) [2/ ]
+#235494287: Revise some of the punctuation in the main studio description (Sep. 23) [2/ ]
 ————————————————
 +++ Waiting List +++
 
