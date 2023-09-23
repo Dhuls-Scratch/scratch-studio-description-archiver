@@ -15,8 +15,11 @@ Main Studio: https://scratch.mit.edu/studios/30136012/comments
 ————————————————
 +++ Pending Proposals +++
 
-#234797277: Only allow Managers to suggest promotions (Sep. 16) [0.5/3]
+Only allow Managers to suggest promotions (Sep. 16) [0.5/3]
+
 Replace the "How to Apply" section with a Wiki link (Sep. 21) [-1.5/3]
+
+Revise some of the punctuation in the main studio description (Sep. 23) [2/ ]
 ————————————————
 +++ Waiting List +++
 
