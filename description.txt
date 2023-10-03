@@ -14,8 +14,6 @@ None
 ————————————————
 +++ Pending Proposals +++
 
-#234797277: Only allow Managers to suggest promotions (Sep. 16) [0.5/3]
-
 #235253199: Replace the "How to Apply" section with a Wiki link (Sep. 21) [-1.5/3]
 ————————————————
 +++ Waiting List +++
