@@ -14,7 +14,7 @@ None
 ————————————————
 +++ Pending Proposals +++
 
-#235253199: Replace the "How to Apply" section with a Wiki link (Sep. 21) [-1.5/3]
+None
 ————————————————
 +++ Waiting List +++
 
