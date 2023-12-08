@@ -10,11 +10,13 @@ None
 ————————————————
 +++ Pending Promotions +++
 
-None
+- Promote @bobcat0701 (Dec. 7) [2.5/3]
 ————————————————
 +++ Pending Proposals +++
 
-- Invite @k7e (Dec. 4)
+- Invite @k7e (Dec. 4) [0/4] (4)
+- Invite @unmissable (Dec. 7) [0/4] (3)
+- Invite @yadayadayadagoodbye (Dec. 7) [0/4] (2)
 ————————————————
 +++ Waiting List +++
 
