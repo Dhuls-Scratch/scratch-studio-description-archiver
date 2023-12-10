@@ -6,7 +6,7 @@ Main Studio: https://scratch.mit.edu/studios/30136012/comments
 ————————————————
 +++ Pending Applicants +++
 
-None
+- @roofogato (Dec. 9) [0/4] (4)
 ————————————————
 +++ Pending Promotions +++
 
@@ -17,7 +17,8 @@ None
 - Invite @k7e (Dec. 4) [0/4] (4)
 - Invite @unmissable (Dec. 7) [0/4] (3)
 - Invite @yadayadayadagoodbye (Dec. 7) [0/4] (2)
-- Remove @VioletCalico (banned account) (Dec. 9) [0.5/3] (1)
+- Remove @VioletCalico (banned account) (Dec. 9) [2.5/3] (3)
+- Remove @dertermenter (banned account) (Dec. 9) [2.5/3] (3)
 ————————————————
 +++ Waiting List +++
 
@@ -48,7 +49,7 @@ Previous Special Action hosts:
 4) If after one week, the number of objections is less than 4, and at least four members have given feedback, the user is invited. If the number of objections is greater than 4, the application is rejected. 
 
 5) If an application does not receive feedback from at least four members of the studio by the time the week-long period ends, the pending window will be extended until that number is reached.
-————————————————
+——————————————��—
 +++ Promotion Notes +++
 
 1) Only a members of TFH can request someone to be promoted, and it cannot be themselves.
@@ -87,3 +88,9 @@ English:
 https://en.scratch-wiki.info/wiki/User:Sharkode/The_Forum_Helpers (@sharkode)
 
 Deutsch: https://en.scratch-wiki.info/wiki/User:Sharkode/The_Forum_Helpers/Deutsch (@mybearworld)
+
+————————————————
++++ Key for Actions +++
+
+- Applications/invitations:
+
