@@ -12,11 +12,11 @@ None
 ————————————————
 +++ Pending Proposals +++
 
-- Invite @k7e (Dec. 4) [0/4] (4)
 - Invite @unmissable (Dec. 7) [0/4] (3)
 - Invite @yadayadayadagoodbye (Dec. 7) [0/4] (2)
 - Remove @VioletCalico (banned account) (Dec. 9) [2.5/3] (3)
 - Remove @dertermenter (banned account) (Dec. 9) [2.5/3] (3)
+- Manager check-in (Dec. 10) [4/5] (4)
 ————————————————
 +++ Waiting List +++
 
