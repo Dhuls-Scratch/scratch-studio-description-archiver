@@ -17,6 +17,7 @@ None
 - Remove @VioletCalico (banned account) (Dec. 9) [2.5/3] (3)
 - Remove @dertermenter (banned account) (Dec. 9) [2.5/3] (3)
 - Manager check-in (Dec. 10) [4/5] (4)
+- Note at the top of the desc. about replying to applications (Dec. 12) [1/3] (1)
 ————————————————
 +++ Waiting List +++
 
@@ -47,7 +48,7 @@ Previous Special Action hosts:
 4) If after one week, the number of objections is less than 4, and at least four members have given feedback, the user is invited. If the number of objections is greater than 4, the application is rejected. 
 
 5) If an application does not receive feedback from at least four members of the studio by the time the week-long period ends, the pending window will be extended until that number is reached.
-————————————————
+——���—————————————
 +++ Promotion Notes +++
 
 1) Only a members of TFH can request someone to be promoted, and it cannot be themselves.
