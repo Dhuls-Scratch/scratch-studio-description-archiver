@@ -39,23 +39,16 @@ Previous Special Action hosts:
 @jackson49: Dec 2022 - Sep 2023
 ————————————————
 +++ Application Notes +++
-[For Curators and Managers]
 
+General info: https://en.scratch-wiki.info/wiki/User:Sharkode/The_Forum_Helpers#Application_Notes
 
+Additional info: https://en.scratch-wiki.info/wiki/User:Sharkode/The_Forum_Helpers#Application_Rules
 ————————————————
 +++ Promotion Notes +++
 
-1) Only a members of TFH can request someone to be promoted, and it cannot be themselves.
+General Info: https://en.scratch-wiki.info/wiki/User:Sharkode/The_Forum_Helpers#Promotion_Notes
 
-2) If you wish to promote someone from Curator to Manager, please make your own comment thread to discuss the user's promotion.
-
-3) If you believe someone should be promoted, say "support" and explain. 
-
-4) If you do not believe a user should be promoted, you have the option of saying "no support" on their application if you are a Manager, as long as you provide an explanation. This will deduct 1 point from their vote. If the vote count reaches -3 or two weeks have passed without the promotion being accepted, then it will be rejected, and the user cannot be re-suggested for at least two weeks.
-
-5) Curators' votes are +0.5; Managers +/-1.
-
-6) If a promotion request gets three votes, (not counting the user who suggested them) then the user is promoted by a manager!
+Additional info: https://en.scratch-wiki.info/wiki/User:Sharkode/The_Forum_Helpers#Promotion_Rules
 ————————————————
 +++ Special Action Notes +++
 
