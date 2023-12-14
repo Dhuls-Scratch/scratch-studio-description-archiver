@@ -5,6 +5,9 @@ Main Studio: https://scratch.mit.edu/studios/30136012/comments
 +++ Pending Applicants +++
 
 - @roofogato (Dec. 9) [0/4] (4)
+- @Scratch--TheCat (Dec. 13) [0/4] (3)
+- @EngineerRunner (Dec. 13) [0/4] (1)
+- @Gamer_Logan819 (Dec. 13) [0/4] (3)
 ————————————————
 +++ Pending Promotions +++
 
@@ -14,9 +17,9 @@ None
 
 - Invite @unmissable (Dec. 7) [0/4] (3)
 - Invite @yadayadayadagoodbye (Dec. 7) [0/4] (2)
-- Manager check-in (Dec. 10) [3.5/5] (4)
+- Remove @VioletCalico (banned account) (Dec. 9) [0.5/3]
+- Manager check-in (Dec. 10) [3/5] (4)
 - Note at the top of the desc. about replying to applications (Dec. 12) [1/3] (1)
-- Limit apps/invites to 3 at a time (Dec. 13) [1/3] (2)
 ————————————————
 +++ Waiting List +++
 
@@ -38,15 +41,7 @@ Previous Special Action hosts:
 +++ Application Notes +++
 [For Curators and Managers]
 
-1) Any studio member is allowed to post a users' application in the Special Actions studio. Before posting, verify the applicant and application meets the requirements. If you are unsure, ask a Manager.
 
-2) Users who apply will be placed in a 1 week-long "pending" window where their application can be discussed by current members.
-
-3) A Curator and Manager objection counts as -1. If and only if a Manager explicitly specifies, they can object -2. Please indicate whether you are a Curator or Manager by writing [Curator] or [Manager] at the start of your comment when discussing an applicant.
-
-4) If after one week, the number of objections is less than 4, and at least four members have given feedback, the user is invited. If the number of objections is greater than 4, the application is rejected. 
-
-5) If an application does not receive feedback from at least four members of the studio by the time the week-long period ends, the pending window will be extended until that number is reached.
 ————————————————
 +++ Promotion Notes +++
 
@@ -80,10 +75,10 @@ A "special action" is a change to The Forum Helpers studio, big or small.
 
 7) Proposals are automatically rejected if two weeks pass without receiving the necessary votes to be implemented. If a proposal reaches -3/3, it will automatically be rejected even if two weeks haven't passed.
 ————————————————
-+++ All Passed Special Actions +++
++++ Wiki Page +++
 
 English:
-https://en.scratch-wiki.info/wiki/User:Sharkode/The_Forum_Helpers (@sharkode)
+https://en.scratch-wiki.info/wiki/User:Sharkode/The_Forum_Helpers
 
 Deutsch: https://en.scratch-wiki.info/wiki/User:Sharkode/The_Forum_Helpers/Deutsch (@mybearworld)
 
