@@ -14,9 +14,9 @@ None
 
 - Invite @unmissable (Dec. 7) [0/4] (3)
 - Invite @yadayadayadagoodbye (Dec. 7) [0/4] (2)
-- Manager check-in (Dec. 10) [3/5] (4)
+- Manager check-in (Dec. 10) [3.5/5] (4)
 - Note at the top of the desc. about replying to applications (Dec. 12) [1/3] (1)
-- Limit apps/invites (Dec. 13) [1/3] (2)
+- Limit apps/invites to 3 at a time (Dec. 13) [1/3] (2)
 ————————————————
 +++ Waiting List +++
 
