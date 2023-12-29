@@ -3,13 +3,11 @@ This studio is used for discussing applicants, promotions, and other special act
 Main Studio: https://scratch.mit.edu/studios/30136012/comments
 ————————————————
 +++ Pending Applicants +++
+*** APPLICATIONS ARE TEMPORARILY CLOSED ***
 
-- @Scratch--TheCat (Dec. 13) [0/4] (3)
-- @EngineerRunner (Dec. 13) [0/4] (2)
-- @Gamer_Logan819 (Dec. 13) [0/4] (3)
-- @EDawg2011 (Dec. 16) [1/4] (1)
-- @ajskateboarder (Dec. 16) [0/4] (4)
-- @sonic__fan (Dec. 19) [0/4] (3)
+- @floppasyay (Dec. 23) [0/4] (3)
+- @hydrofungus (Dec. 23) [0/4] (4)
+- @RethinkingVoxels (Dec. 24) [3/4] (4)
 ————————————————
 +++ Pending Promotions +++
 
@@ -17,7 +15,7 @@ None
 ————————————————
 +++ Pending Proposals +++
 
-- Note at the top of the desc. about replying to applications (Dec. 12) [1/3] (1)
+- Don't consider quoter projects to be quickreplys (Dec. 24) [1.5/3]
 ————————————————
 +++ Waiting List +++
 
@@ -36,7 +34,7 @@ Previous Special Action hosts:
 @jackson49: Dec 2022 - Sep 2023
 ————————————————
 +++ Application Notes +++
-
+*** APPLICATIONS ARE TEMPORARILY CLOSED ***
 General info: https://en.scratch-wiki.info/wiki/User:Sharkode/The_Forum_Helpers#Application_Notes
 
 Additional info: https://en.scratch-wiki.info/wiki/User:Sharkode/The_Forum_Helpers#Application_Rules
