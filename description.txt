@@ -3,7 +3,6 @@ This studio is used for discussing applicants, promotions, and other special act
 Main Studio: https://scratch.mit.edu/studios/30136012/comments
 ————————————————
 +++ Pending Applicants +++
-*** APPLICATIONS ARE TEMPORARILY CLOSED ***
 
 None
 ————————————————
@@ -30,9 +29,8 @@ Previous Special Action hosts:
 @customhacker: Jan 2015 - Aug 2021
 @xXRedTheCoderXx: Aug 2021 - Dec 2022 
 @jackson49: Dec 2022 - Sep 2023
-————————————————
+———————���————————
 +++ Application Notes +++
-*** APPLICATIONS ARE TEMPORARILY CLOSED ***
 General info: https://en.scratch-wiki.info/wiki/User:Sharkode/The_Forum_Helpers#Application_Notes
 
 Additional info: https://en.scratch-wiki.info/wiki/User:Sharkode/The_Forum_Helpers#Application_Rules
